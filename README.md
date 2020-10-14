@@ -32,8 +32,11 @@ Filter sehingga wireshark hanya mengambil paket yang mengandung port 21<br/>
 Capture Filter Expression port 21
 
 <br/>![12](https://user-images.githubusercontent.com/56763570/95973808-f92c9180-0dc8-11eb-86f1-2b9642a9e5fa.PNG)<br/>
-## Soal 12
 
+## Soal 12
+Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80<br/>
+Capture Filter Expression port 80<br/>
+<br/>![12](https://user-images.githubusercontent.com/56763570/95974292-a4d5e180-0dc9-11eb-8016-d747cd8bcd01.PNG)<br/>
 ## Soal 13
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 443<br/>
 Capture Filter Expression:  dst port 443
