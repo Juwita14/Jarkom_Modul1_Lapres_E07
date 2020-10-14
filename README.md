@@ -7,6 +7,8 @@ Praktikum Modul 1 Jarkom 2020<br/>
 ## Soal 1
 Web server yang digunakan pada "testing.mekanis.me" adalah nginx/1.14.0(ubuntu)
 Wireshark Filter Expression:	http.host==testing.mekanis.me
+
+<br/>![1 1](https://user-images.githubusercontent.com/56763570/95972580-748d4380-0dc7-11eb-8634-11f64620b94e.PNG)<br/>
 <br/>![1](https://user-images.githubusercontent.com/56763570/95971806-891d0c00-0dc6-11eb-83c3-17f3bfc2d368.PNG)<br/>
 ## Soal 2
 
@@ -15,6 +17,7 @@ Username dan password ketika login di "ppid.dpr.go.id"
 username="10pemuda"
 password="guncangdunia"
 Wireshark Filter Expression:	http.request.method=="POST" && http.host==ppid.dpr.go.id
+
 <br>![3](https://user-images.githubusercontent.com/56763570/95972286-1f513200-0dc7-11eb-915d-3d132e5cd4e2.PNG)<br>
 
 ## Soal 4
