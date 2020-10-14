@@ -48,3 +48,6 @@ Capture Filter Expression:  dst port 443
 
 ## Soal 14
 ## Soal 15
+Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id<br/>
+Capture Filter Expression:  dst host monta.if.its.ac.id<br/>
+<br/>![15](https://user-images.githubusercontent.com/56763570/95975641-47429480-0dcb-11eb-9296-21aa689b2198.PNG)<br/>
