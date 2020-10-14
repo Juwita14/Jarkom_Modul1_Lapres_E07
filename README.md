@@ -5,7 +5,7 @@ Praktikum Modul 1 Jarkom 2020<br/>
 05111840007004 Siti Munawaroh<br/>
 
 ## Soal 1
-Web server yang digunakan pada "testing.mekanis.me" adalah nginx/1.14.0(ubuntu)
+Web server yang digunakan pada "testing.mekanis.me" adalah nginx/1.14.0(ubuntu)<br/>
 Wireshark Filter Expression:	http.host==testing.mekanis.me
 
 <br/>![1 1](https://user-images.githubusercontent.com/56763570/95972580-748d4380-0dc7-11eb-8634-11f64620b94e.PNG)<br/>
@@ -13,9 +13,9 @@ Wireshark Filter Expression:	http.host==testing.mekanis.me
 ## Soal 2
 
 ## Soal 3
-Username dan password ketika login di "ppid.dpr.go.id"
-username="10pemuda"
-password="guncangdunia"
+Username dan password ketika login di "ppid.dpr.go.id"<br/>
+username="10pemuda"<br/>
+password="guncangdunia"<br/>
 Wireshark Filter Expression:	http.request.method=="POST" && http.host==ppid.dpr.go.id
 
 <br>![3](https://user-images.githubusercontent.com/56763570/95972286-1f513200-0dc7-11eb-915d-3d132e5cd4e2.PNG)<br>
@@ -28,7 +28,7 @@ Wireshark Filter Expression:	http.request.method=="POST" && http.host==ppid.dpr.
 ## Soal 9
 ## Soal 10
 ## Soal 11
-Filter sehingga wireshark hanya mengambil paket yang mengandung port 21
+Filter sehingga wireshark hanya mengambil paket yang mengandung port 21<br/>
 Capture Filter Expression port 21
 
 <br/>![12](https://user-images.githubusercontent.com/56763570/95973808-f92c9180-0dc8-11eb-86f1-2b9642a9e5fa.PNG)<br/>
