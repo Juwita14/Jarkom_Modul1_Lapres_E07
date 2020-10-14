@@ -30,5 +30,9 @@ Wireshark Filter Expression:	http.request.method=="POST" && http.host==ppid.dpr.
 ## Soal 11
 ## Soal 12
 ## Soal 13
+Filter sehingga wireshark hanya menampilkan paket yang menuju port 443
+Capture Filter Expression:  dst port 443
+<br/>![13](https://user-images.githubusercontent.com/56763570/95973402-773c6880-0dc8-11eb-9a2d-b5c41066a4b8.PNG)<br/>
+
 ## Soal 14
 ## Soal 15
