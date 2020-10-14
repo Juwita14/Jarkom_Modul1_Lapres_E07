@@ -21,6 +21,9 @@ Wireshark Filter Expression:	http.request.method=="POST" && http.host==ppid.dpr.
 <br>![3](https://user-images.githubusercontent.com/56763570/95972286-1f513200-0dc7-11eb-915d-3d132e5cd4e2.PNG)<br>
 
 ## Soal 4
+Menemukan paket dari web-web yang menggunakan basic authentication method.<br/>
+Wireshark Filter Expression:	http.authbasic<br/>
+<br/>![4](https://user-images.githubusercontent.com/56763570/95975234-bf5c8a80-0dca-11eb-88f3-b62fc1c2a36a.PNG)<br/>
 ## Soal 5
 ## Soal 6
 ## Soal 7
