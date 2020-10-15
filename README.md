@@ -50,7 +50,7 @@ Capture Filter Expression:  dst port 443
 Filter sehingga wireshark hanya menampilkan paket yang berasal dari ip sendiri<br/>
 Mencari ip menggunakan cmd dan mengetik "ipconfig" sehingga didapatkan 192.168.43.146<br/>
 Capture Filter Expression:  src host 192.168.43.146<br/>
-<br/>![14](https://user-images.githubusercontent.com/56763570/96070692-8e756780-0e55-11eb-86b3-783d9c9ca976.PNG)<br/>
+<br/>![14](https://user-images.githubusercontent.com/56763570/96071201-794d0880-0e56-11eb-92a5-232875819e53.PNG)<br/>
 ## Soal 15
 Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id<br/>
 Capture Filter Expression:  dst host monta.if.its.ac.id<br/>
