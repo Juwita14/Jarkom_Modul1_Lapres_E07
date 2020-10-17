@@ -45,6 +45,8 @@ Ftp -data.command contains “Answer.zip”
 Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
 Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
+![Screenshot (391)](https://user-images.githubusercontent.com/58022238/96351075-5420fa00-10e3-11eb-8429-ed22a534381e.png)
+
 ## Soal 8
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 ftp.request.command == RETR && ( ip.src == 198.246.117.106 || ip.dst == 198.246.117.106)
