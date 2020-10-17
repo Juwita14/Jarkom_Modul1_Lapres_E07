@@ -25,6 +25,15 @@ Menemukan paket dari web-web yang menggunakan basic authentication method.<br/>
 Wireshark Filter Expression:	http.authbasic<br/>
 <br/>![4](https://user-images.githubusercontent.com/56763570/95975234-bf5c8a80-0dca-11eb-88f3-b62fc1c2a36a.PNG)<br/>
 ## Soal 5
+Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
+  gambar 1 (vscode) = isi dari favicon.ico yang dibuka sebagai .html file
+
+![Screenshot (382)](https://user-images.githubusercontent.com/58022238/96350589-baf0e400-10e0-11eb-835e-1c1ab5242839.png)
+
+Gambar 2 = hasil bukaan html serta jawaban pengkabelan (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat)
+
+Gambar 3 username dan password = kakakgamtenk:hartatahtabermuda
+
 ## Soal 6
 ## Soal 7
 ## Soal 8
