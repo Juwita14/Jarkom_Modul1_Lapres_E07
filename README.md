@@ -47,6 +47,9 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 ![Screenshot (391)](https://user-images.githubusercontent.com/58022238/96351075-5420fa00-10e3-11eb-8429-ed22a534381e.png)
 
+![Screenshot (392)](https://user-images.githubusercontent.com/58022238/96351143-a3ffc100-10e3-11eb-97e5-da1abbe767f7.png)
+
+
 ## Soal 8
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 ftp.request.command == RETR && ( ip.src == 198.246.117.106 || ip.dst == 198.246.117.106)
