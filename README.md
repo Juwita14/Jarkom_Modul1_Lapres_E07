@@ -32,14 +32,34 @@ Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file
 
 Gambar 2 = hasil bukaan html serta jawaban pengkabelan (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat)
 
+![Screenshot (384)](https://user-images.githubusercontent.com/58022238/96350786-9c3f1d00-10e1-11eb-8cdc-6cccf33f3605.png)
+
 Gambar 3 username dan password = kakakgamtenk:hartatahtabermuda
 
 ## Soal 6
+Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
+
+Ftp -data.command contains “Answer.zip”
+
 ## Soal 7
+Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
+Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
+
 ## Soal 8
+Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
+ftp.request.command == RETR && ( ip.src == 198.246.117.106 || ip.dst == 198.246.117.106)
+
 ## Soal 9
+Cari username dan password ketika login FTP pada localhost!
+
 ## Soal 10
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46"
+Ctrl + f di display filter, lalu cari hex, di capture nomor 290 di klik kanan follow tcp stream save as raw dengan nama file.pdf
+
 ## Soal 11
+Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21<br/>
 Capture Filter Expression:  port 21
 
