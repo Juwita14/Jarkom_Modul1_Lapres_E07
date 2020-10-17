@@ -67,8 +67,13 @@ Cari file .pdf di wireshark lalu download dan buka file tersebut!
 clue: "25 50 44 46"
 Ctrl + f di display filter, lalu cari hex, di capture nomor 290 di klik kanan follow tcp stream save as raw dengan nama file.pdf
 
+![Screenshot (395)](https://user-images.githubusercontent.com/58022238/96351227-4ae45d00-10e4-11eb-8b26-e6eae4d23994.png)
+![Screenshot (396)](https://user-images.githubusercontent.com/58022238/96351231-53d52e80-10e4-11eb-958d-c6f7aaf7b73e.png)
+
 ## Soal 11
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+
+![Screenshot (396)](https://user-images.githubusercontent.com/58022238/96351231-53d52e80-10e4-11eb-958d-c6f7aaf7b73e.png)
 
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21<br/>
 Capture Filter Expression:  port 21
