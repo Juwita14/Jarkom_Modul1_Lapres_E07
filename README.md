@@ -52,10 +52,15 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 ## Soal 8
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
+
 ftp.request.command == RETR && ( ip.src == 198.246.117.106 || ip.dst == 198.246.117.106)
 
 ## Soal 9
 Cari username dan password ketika login FTP pada localhost!
+
+![Screenshot (394)](https://user-images.githubusercontent.com/58022238/96351175-e75a2f80-10e3-11eb-9660-b594bfebb65d.png)
+
+“ftp.request.command == PASS || ftp.request.command == USER”
 
 ## Soal 10
 Cari file .pdf di wireshark lalu download dan buka file tersebut!
