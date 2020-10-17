@@ -11,6 +11,9 @@ Wireshark Filter Expression:	http.host==testing.mekanis.me
 <br/>![1 1](https://user-images.githubusercontent.com/56763570/95972580-748d4380-0dc7-11eb-8634-11f64620b94e.PNG)<br/>
 <br/>![1](https://user-images.githubusercontent.com/56763570/95971806-891d0c00-0dc6-11eb-83c3-17f3bfc2d368.PNG)<br/>
 ## Soal 2
+Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg
+
 
 ## Soal 3
 Username dan password ketika login di "ppid.dpr.go.id"<br/>
@@ -68,7 +71,6 @@ clue: "25 50 44 46"
 Ctrl + f di display filter, lalu cari hex, di capture nomor 290 di klik kanan follow tcp stream save as raw dengan nama file.pdf
 
 ![Screenshot (395)](https://user-images.githubusercontent.com/58022238/96351227-4ae45d00-10e4-11eb-8b26-e6eae4d23994.png)
-![Screenshot (396)](https://user-images.githubusercontent.com/58022238/96351231-53d52e80-10e4-11eb-958d-c6f7aaf7b73e.png)
 
 ## Soal 11
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
